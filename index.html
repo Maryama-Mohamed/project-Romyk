@@ -1,12 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
     <title>Romyk</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    
-</body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- header section-->
+    <div class="header-section">
+      <header>
+        <!-- hamburger -->
+        <div class="hamburger">
+          <i class="fa-solid fa-bars" data-visible="true"></i>
+          <i class="fa-solid fa-close" data-visible="false"></i>
+        </div>
+
+        <!-- Desktop menu -->
+        <nav class="container Desktop-menu">
+          <img
+            class="logo"
+            src="https://themewagon.github.io/Romyk/images/logo.png"
+            alt="imge"
+          />
+          <ul class="menu-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Icecream</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+
+          <button><i class="fa-solid fa-user"></i>Login</button>
+        </nav>
+
+        <!-- Mobile Menu -->
+        <nav class="mobile-menu" data-visible="false">
+          <div class="navigation">
+            <img
+              class="logo"
+              src="https://themewagon.github.io/Romyk/images/logo.png"
+              alt="imge"
+            />
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Icecream</a></li>
+              <li><a href="#">Services</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+
+    </div>
+  </body>
 </html>
