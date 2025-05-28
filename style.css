@@ -90,7 +90,63 @@ body{
     display: none;
 }
 
+.header-content{
+    display: flex;
 
+}
+
+.header-content .left-content{
+    width: 50%;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 1%;
+}
+
+.header-content .right-content{
+    width: 50%;
+
+}
+.header-content img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.header-content .left-content h1{
+   font-size: 3.75rem;
+   font-weight: 700;
+   color: var(--text-color);
+   line-height: normal;
+}
+
+.header-content .left-content p{
+    font-size: 1;
+    color: #222;
+    font-weight: 300;
+    line-height: 1.5rem;
+}
+.btn{
+    margin-top: 2rem;
+}
+.header-content .left-content .btn a{
+    text-decoration: none;
+    color: var(--);
+    font-weight: 500;
+    font-size: 1.125rem;
+    padding: 1rem 2rem;
+    border-radius: 0.25rem;
+    background-color: var(--secondary-color);
+    margin-top: 50px;
+}
+
+.header-content .left-content .btn a:hover{
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    transition: all 0.3s ease-in-out;
+}
+  
 
 
 /* Mobiles */
