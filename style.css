@@ -232,8 +232,38 @@ body{
     .mobile-menu .navigation .menu-links li a:hover{
         color: var(--secondary-color);
     }
-    
 
+    .header-section{
+        background-image: none;
+    }
+    .header-content {
+        flex-direction: column;
+        gap: 2rem;
+        margin-top: 25%;
+      
+        
+    }
+
+    .header-content .left-content {
+        width: 100%;
+
+        
+    }
+    .header-content .right-content {
+        width: 100%;
+    }
+
+    .header-content .left-content h1 {
+        font-size: 2rem;
+        
+    }
+    .header-content .left-content p {
+        font-size: 0.875rem;
+        line-height: 1.5rem;
+    }
+ 
+
+   
 }
 
 /* Tablets */
