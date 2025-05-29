@@ -302,12 +302,12 @@ body{
 
 .services-Boxs{
     display: flex;
-    gap: 1.5rem;
+  
     
 }
 
 .services-box{
-    margin: 2rem auto;
+    margin: 1rem auto;
     width: 360px;
     height: 190px;
     padding: 20px 30px;
@@ -501,6 +501,17 @@ body{
    
 }
 
+.services-Boxs{
+    display: flex;
+    flex-wrap: wrap;
+   
+    
+}
+.services-box{
+    width: 800px;
+}
+
+
 }
 
 
@@ -651,4 +662,15 @@ body{
         margin-top: 3rem;
     }
    
+    .content-featured h1{
+        font-size: 1.5rem;
+      
+       
+    }
+
+    .content-featured p{
+        font-size: 0.8125rem;
+       
+       
+    }
 }
