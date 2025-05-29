@@ -514,7 +514,15 @@ body{
     transition: all 0.3s ease-in-out;
 }
 
+.footer-section{
+    background-color: wheat;
+    padding: 2rem;
 
+}
+
+.footer{
+    background-color: yellow;
+}
 
 
 /* Tablets */
