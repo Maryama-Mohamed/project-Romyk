@@ -356,6 +356,7 @@ body{
     padding: 50px 40px 0 40px;
     background-color: #ffffff;
     margin-top: 2rem;
+    position: relative;
 }
 
 .testimonial-box p{
@@ -372,8 +373,14 @@ body{
     font-weight: 700;
     text-align: center;
     color: var(--text-color);
-    margin-top: 5rem;
+    margin-top: 3rem;
    
+}
+
+.client-image{
+    position: absolute;
+    right: 39%;
+    padding: 1rem 0;
 }
 
 
