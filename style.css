@@ -335,6 +335,47 @@ body{
 }
 
 
+.testimonial{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-testimonial h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    text-align: center;
+   
+}
+
+.testimonial-box{
+    width: 82%;
+    height: 300px;
+    box-shadow: 0px 0px 20px 10px #ededec;
+    padding: 50px 40px 0 40px;
+    background-color: #ffffff;
+    margin-top: 2rem;
+}
+
+.testimonial-box p{
+    font-size: 1rem;
+    color: var(--text-color);
+    font-weight: 300;
+    line-height: 1.5rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.testimonial-box .Marri h4{
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-align: center;
+    color: var(--text-color);
+    margin-top: 5rem;
+   
+}
+
 
 /* Tablets */
 
