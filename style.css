@@ -294,10 +294,32 @@ body{
        
     }
 
+    .About-section{
+        flex-direction: column-reverse;
+        padding: 0.5rem;
+       
+    }
 
+    .About-icream {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 1.5rem;
+    }
    
-    
+    .About-icream h1{
+    font-size: 4rem;
+    }
+    .About-icream p{
+        font-size: 1rem;
+       
+    }
 
+    .About-content img{
+        margin-top: 2rem;
+    }
 
 }
 
