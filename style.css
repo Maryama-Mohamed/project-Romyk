@@ -515,13 +515,24 @@ body{
 }
 
 .footer-section{
-    background-color: wheat;
-    padding: 2rem;
+    background-color: var(--text-color);
+
 
 }
 
 .footer{
-    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem 0;
+}
+.footer p{
+    font-size: 1rem;
+    color: var(--primary-color);
+    font-weight: 300;
+    text-align: center;
+    line-height: 1.5rem;
 }
 
 
