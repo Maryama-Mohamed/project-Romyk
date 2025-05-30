@@ -87,3 +87,132 @@ body{
 .mobile-menu{
     display: none;
 }
+
+
+.contact-us{
+    width: 100%;
+    height: 100%;
+    margin-top: 100px ;
+    background-color: var(--text-color);
+   
+}
+.contact-us .contents{
+  display: flex;
+  gap: 2rem;
+}
+
+
+.contact-us .content-form {
+    display: flex;
+    gap: 1rem;
+    width: 500px;
+
+  
+ 
+
+    
+}
+
+.contact-us .content-form h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    
+}
+
+
+.contact-us .content-form form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    
+}
+
+.contact-us .content-form form input{
+    padding: 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    color: var(--text-color);
+    background-color: var(--primary-color);
+}
+
+.btn-form{
+    margin-right: 50%;
+}
+
+
+.content-contact{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+
+.content-boxs{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    
+   
+    
+  
+}
+
+.box{
+    display: flex;
+    gap: 1rem;
+    
+}
+
+.box i{
+    font-size: 2rem;
+    color: var(--secondary-color);
+}
+.box p{
+    font-size: 1.125rem;
+    color: var(--primary-color);
+    font-weight: 500;
+    line-height: 1.5rem;
+}
+
+
+.newsletter label,input{
+    padding: 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    color: var(--text-color);
+    background-color: var(--primary-color);
+    width: 100%;
+}
+
+.social-icons{
+    display: flex;
+    gap: 2rem;
+    margin-top: 2rem;
+   
+   
+}
+.social-icons i{
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 1.5rem;
+    cursor: pointer;
+    background-color: #ffffff;
+    padding: 0.5rem;
+    border-radius: 100px;
+}
+.social-icons i:hover{
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+    transition: all 0.3s ease-in-out;
+}
