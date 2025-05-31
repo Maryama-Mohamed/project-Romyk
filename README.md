@@ -4,8 +4,8 @@ An ice cream website is a website that focuses on ice cream-related content — 
 ## Project Overview 
 This is project developed and design by Group: a of Group: b
 #### members
-  - Maryam Mohamed
   - Mahdi Ali iltireh
+  - Maryam Mohamed Ali
 
 ### Website Sections
  - Home: A delicious welcome to your site with a big, eye-catching image of your best-selling ice cream. Include a short introduction and highlight current promotions or best flavors. Add a "Visit Us" or "Order Now" button.
