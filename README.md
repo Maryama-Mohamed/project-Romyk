@@ -39,6 +39,9 @@ This is project developed and design by Group: a of Group: b.members
 | Background Color| #fefefd |
 | Text color      | #373736 |
 
+## Fonts 
+- "Poppins", sans-serif;
+
 
 
 
