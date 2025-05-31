@@ -2,7 +2,8 @@
 An ice cream website is a website that focuses on ice cream-related content — it could be for a business that sells ice cream, a brand that makes ice cream, or even a home about ice cream recipes and reviews.
 
 ## Project Overview 
-This is project developed and design by Group: a of Group: b.members
+This is project developed and design by Group: a of Group: b
+#### members
   - Maryam Mohamed
   - Mahdi Ali iltireh
 
