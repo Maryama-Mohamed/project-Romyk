@@ -18,6 +18,8 @@ body{
     --background-color: #fefefd;
 }
 
+/* Desktop  */
+
 .container{
     width: min(90%, 1249px);
     margin-inline: auto;
