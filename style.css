@@ -92,6 +92,7 @@ body{
 
 .mobile-menu{
     display: none;
+    z-index: 999;
 }
 
 .header-content{
@@ -393,6 +394,7 @@ body{
     height: 100%;
     margin-top: 100px ;
     background-color: var(--text-color);
+    z-index: 0;
    
 }
 .contact-us .contents{
@@ -448,6 +450,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    z-index: 0;
 
    
 }
@@ -497,6 +500,7 @@ body{
 .social-icons{
     display: flex;
     gap: 2rem;
+    
    
    
 }
@@ -508,6 +512,7 @@ body{
     background-color: #ffffff;
     padding: 0.5rem;
     border-radius: 100px;
+    z-index: 0;
 }
 .social-icons i:hover{
     color: var(--primary-color);
