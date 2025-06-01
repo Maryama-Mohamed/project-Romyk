@@ -3,7 +3,7 @@ An ice cream website is a website that focuses on ice cream-related content — 
 
 ## Project Overview 
 This is project developed and design by Group: A  of Group: B
-#### members
+#### MEMBERS
   - Mahdi Ali iltireh
   - Maryam Mohamed Ali
 
