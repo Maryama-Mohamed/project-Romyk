@@ -66,3 +66,57 @@ body{
 .mobile-menu{
     display: none;
 }
+
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 3rem;
+
+}
+.content{
+    display: block;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;       
+
+}
+
+.content h1{
+    line-height: normal;
+    font-size: 40px;
+    font-weight: 700;
+    color: #373736;
+
+}
+.content p{
+    line-height: 25px;
+    font-size: 16px;
+    font-weight: 300;
+    word-wrap: break-word;
+    color:rgb(55, 55, 54);
+   
+}
+.readme {
+    background-color: #fc95c4;
+    padding: 10px 0px;
+    border-radius: 5px;
+    width: 15%;
+    text-align: center;
+    margin: 1rem 0;
+
+}
+.readme a{
+    text-decoration: none;
+    color: #ffffff;    
+    font-weight: bold;
+    font-size: 16px;
+}
+.readme:hover{
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #212121;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
