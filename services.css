@@ -245,4 +245,16 @@ body{
     }
 }
 
+@media(max-width: 580px){
+    body{
+        padding: 0;
+    }
+    .container{
+        padding: 0;
+    }
+    .Our-Featured h1{
+        font-size: 17px;
+        margin-top: 2rem;
+    }
+}
     
