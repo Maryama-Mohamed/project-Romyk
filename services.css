@@ -131,3 +131,24 @@ body{
     transition: background-color 0.3s ease;
     text-decoration: none;
 }
+
+.footer-section{
+    background-color: #f1f1f1;
+
+
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem 0;
+}
+.footer p{
+    font-size: 1rem;
+    color: #373736;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.5rem;
+}
