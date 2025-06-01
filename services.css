@@ -224,4 +224,25 @@ body{
         color: var(--secondary-color);
     }
     
+    .service-section{
+    margin: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    }
+    .item{
+        flex-direction: column;
+
+    }
+    .readme{
+        width: 50%;
+        margin-left: 20%;
+    }
+     .footer p{
+        
+    font-size: 1rem;
+    line-height: 2rem;
+    }
 }
+
+    
