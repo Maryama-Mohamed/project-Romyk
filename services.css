@@ -133,7 +133,7 @@ body{
 }
 
 .footer-section{
-    background-color: #f1f1f1;
+    background-color: var(--text-color);
 
 
 }
@@ -147,8 +147,8 @@ body{
 }
 .footer p{
     font-size: 1rem;
-    color: #373736;
-    font-weight: 500;
+    color: var(--primary-color);
+    font-weight: 300;
     text-align: center;
     line-height: 1.5rem;
 }
