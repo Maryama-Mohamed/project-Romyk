@@ -63,3 +63,20 @@ body{
 .hamburger{
     display: none;
 }
+
+.mobile-menu{
+    display: none;
+}
+.Our-Featured h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #373736;
+}
+
+.Our-Featured p{
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(55, 55, 54);
+
+}
