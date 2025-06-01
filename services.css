@@ -80,3 +80,29 @@ body{
     color: rgb(55, 55, 54);
 
 }
+
+.service-section{
+    margin: 1rem 0;
+    display: flex;
+    gap: 1.5rem;
+  
+}
+.service-box{
+  
+    padding: 2rem;
+    display: block;
+    border: 2px solid #ffcbd9;
+    border-radius: 10px;
+}
+.service-box p{
+   margin-top: 1rem;
+    line-height: 28px;
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(55, 55, 54);
+}
+.item{
+    display : flex;
+    gap: 1rem;
+    align-items: center
+}
