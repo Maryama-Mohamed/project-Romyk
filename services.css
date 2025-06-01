@@ -256,5 +256,25 @@ body{
         font-size: 17px;
         margin-top: 2rem;
     }
+    .Our-Featured p{
+        line-height: 20px;
+        font-size: 14px;
+    }
+    
+    .service-box{
+        padding: 2rem;
+        width: 100%;
+    }
+    
+    .readme{
+        width: 80%;
+        margin-left: 5%;
+    }
+    .footer p{
+        
+    font-size: 0.5rem;
+    line-height: 1.5rem;
+    }
 }
+
     
