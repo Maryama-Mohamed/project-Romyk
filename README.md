@@ -47,6 +47,13 @@ This is project developed and design by Group: A  of Group: B
 
 
 
-## Screenshoot Full-page 
+## Screen  of Desktop Site 
 ![Full-page Screenshoot](Romyk-05-31-2025_05_04_PM.png)
 
+## Screen of Tablet Site
+![Image](https://github.com/user-attachments/assets/c963fa30-9be2-4132-a4ec-18237cf19e6e)
+
+
+
+## Screen Of Mobile Site
+![Image](https://github.com/user-attachments/assets/f25bb35a-6db9-4f50-8eb1-a341900879b3)
