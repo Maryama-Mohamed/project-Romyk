@@ -106,3 +106,28 @@ body{
     gap: 1rem;
     align-items: center
 }
+
+.readme {
+    background-color: #fc95c4;
+    padding: 10px 0px;
+    border-radius: 5px;
+    width: 20%;
+    margin: 1rem 0;
+    margin-left: 40%;
+    text-align: center;
+    
+
+}
+.readme a{
+    text-decoration: none;
+    color: #ffffff;    
+    font-weight: bold;
+    font-size: 18x;
+}
+.readme:hover{
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #212121;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
